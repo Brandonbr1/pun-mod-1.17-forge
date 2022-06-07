@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_pun_mod_remade:battle_iron"
+    },
+    "2": {
+      "item": "the_pun_mod_remade:battle_iron"
+    },
+    "3": {
+      "item": "the_pun_mod_remade:battle_iron"
+    },
+    "4": {
+      "item": "the_pun_mod_remade:battle_iron"
+    },
+    "5": {
+      "item": "the_pun_mod_remade:battle_iron"
+    },
+    "6": {
+      "item": "the_pun_mod_remade:battle_iron"
+    },
+    "7": {
+      "item": "the_pun_mod_remade:battle_iron"
+    },
+    "8": {
+      "item": "the_pun_mod_remade:battle_iron"
+    }
+  },
+  "result": {
+    "item": "the_pun_mod_remade:batle_chestplate",
+    "count": 1
+  }
+}

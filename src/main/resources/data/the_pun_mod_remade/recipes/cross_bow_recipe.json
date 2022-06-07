@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:crossbow"
+    },
+    "1": {
+      "item": "minecraft:tnt"
+    },
+    "2": {
+      "item": "minecraft:gold_block"
+    },
+    "3": {
+      "item": "minecraft:tnt_minecart"
+    },
+    "4": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "the_pun_mod_remade:cross_bow",
+    "count": 1
+  }
+}

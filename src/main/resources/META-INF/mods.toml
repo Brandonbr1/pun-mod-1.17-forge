@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="the_pun_mod_remade"
+version="1.0.0"
+displayName="The Pun Mod Remade"
+credits="The og pun mod"
+displayURL="https://mcreator.net"
+authors="Brandonbr1, MCreator"
+
+[[dependencies.the_pun_mod_remade]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.17.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

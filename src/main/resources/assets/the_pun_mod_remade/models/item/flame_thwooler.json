@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "the_pun_mod_remade:items/flamethwooler"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "dyemond_helmet",
+    "enableBody": true,
+    "textureBody": "dyemond_chesplate",
+    "enableLeggings": true,
+    "textureLeggings": "dyemond_leg",
+    "enableBoots": true,
+    "textureBoots": "syemond_leggings",
+    "onHelmetTick": {
+      "name": "DyemondArmorHelmetTickEvent"
+    },
+    "onBodyTick": {
+      "name": "DyemondArmorBodyTickEvent"
+    },
+    "onLeggingsTick": {
+      "name": "DyemondArmorLeggingsTickEvent"
+    },
+    "onBootsTick": {
+      "name": "DyemondArmorBootsTickEvent"
+    },
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "iron_",
+    "helmetName": "Dyemond Armor Helmet",
+    "bodyName": "Dyemond Armor Body",
+    "leggingsName": "Dyemond Armor Leggings",
+    "bootsName": "Dyemond Armor Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 25,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

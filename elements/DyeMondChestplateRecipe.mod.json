@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Dyemond"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Dyemond"
+      },
+      {
+        "value": "CUSTOM:Dyemond"
+      },
+      {
+        "value": "CUSTOM:Dyemond"
+      },
+      {
+        "value": "CUSTOM:Dyemond"
+      },
+      {
+        "value": "CUSTOM:Dyemond"
+      },
+      {
+        "value": "CUSTOM:Dyemond"
+      },
+      {
+        "value": "CUSTOM:Dyemond"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DyemondArmor.body"
+    },
+    "name": "dye_mond_chestplate_recipe",
+    "namespace": "mod"
+  }
+}

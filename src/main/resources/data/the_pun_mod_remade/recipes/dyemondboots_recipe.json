@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "the_pun_mod_remade:dyemond"
+    },
+    "2": {
+      "item": "the_pun_mod_remade:dyemond"
+    },
+    "3": {
+      "item": "the_pun_mod_remade:dyemond"
+    },
+    "5": {
+      "item": "the_pun_mod_remade:dyemond"
+    }
+  },
+  "result": {
+    "item": "the_pun_mod_remade:dyemond_armor_boots",
+    "count": 1
+  }
+}

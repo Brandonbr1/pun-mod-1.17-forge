@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "the_pun_mod_remade:items/dyemond_sword"
+  }
+}

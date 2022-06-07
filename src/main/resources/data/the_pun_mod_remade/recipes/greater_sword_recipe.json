@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:raw_iron_block"
+    },
+    "1": {
+      "item": "minecraft:raw_iron_block"
+    },
+    "2": {
+      "item": "minecraft:raw_iron_block"
+    },
+    "3": {
+      "item": "minecraft:raw_iron_block"
+    },
+    "4": {
+      "item": "minecraft:raw_iron_block"
+    },
+    "5": {
+      "item": "minecraft:raw_iron_block"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "the_pun_mod_remade:greater_sword",
+    "count": 1
+  }
+}
